@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 - ![ezgif com-gif-maker](https://user-images.githubusercontent.com/75500719/124173663-b78c6580-da81-11eb-8745-c12b090cbdd5.gif)
 
-*The tecnologies what I ussed are...*
+
+**The tecnologies what I ussed are...**
 - Redux
 - React
 - CSS
@@ -26,10 +27,12 @@ Here are some ideas to get you started:
 - JavaScript
 - PostgreSQL
 
-**These are a segment of one App what I made how projet from a Henry Course, it's an App of gestion for agricultural engineer*
+**These are a segment of one App what I made how projet from a Henry Course, it's an App of gestion for agricultural engineer**
 
 
 - ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/75500719/124179345-20c3a700-da89-11eb-9cd9-b5291860af88.gif)
+
+
 *The tecnologies are the same of the previous project*
 
 ## About Me
