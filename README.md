@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-# I'm Martín and I'm a FullStack Devel0per 💻
+# I'm Martín and I'm a FullStack Developer 💻
  
 - I love programming and all its branches, specially desing and FrontEnd. 📲
 - I’m looking for a job allows me to practice my knowledge. 📚
