@@ -6,19 +6,10 @@ Here are some ideas to get you started:
 -->
 # I'm Martín and I'm a FullStack Developer 💻
  
-- I love programming and all its branches, specially desing and FrontEnd. 📲
-- I’m looking for a job allows me to practice my knowledge. 📚
+- I love programming and app development. 📲
 - I think that knowledge is the basis of everything, that's why I always love learning new things!
 
-## Some Of My Own Projects...
-
-**These is my Countries-App, it's a web app what allows you search for countries and their info:**
-
-
-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/75500719/124173663-b78c6580-da81-11eb-8745-c12b090cbdd5.gif)
-
-
-**The tecnologies that I used are...**
+**The tecnologies that I are familiarized with**
 - Redux
 - React
 - CSS
@@ -26,14 +17,12 @@ Here are some ideas to get you started:
 - Node.js
 - JavaScript
 - PostgreSQL
+- Solidity
+- Web3
+- Ethereum Network
+- Vue.js
+- TypeScript
 
-**This is a segment of an App that I made as a projet for a Henry Course, it's a managing app for agricultural engineers**
-
-
-- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/75500719/124179345-20c3a700-da89-11eb-9cd9-b5291860af88.gif)
-
-
-*The tecnologies are the same as the previous project*
 
 ## About Me
 
