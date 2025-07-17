@@ -3,9 +3,12 @@
 I'm passionate about programming and application development. 📲 For me, knowledge is the foundation of everything, and that's why I'm always eager to learn and grow!
 
 ## Technologies I Work With
-- **Frontend**: React, Redux, CSS, Vue.js, TypeScript, JavaScript
-- **Backend**: Express, Node.js, PostgreSQL
-- **Blockchain**: Solidity, Web3, Ethereum Network
+Javascript / Typescript / Python / Go / Golang/
+React / React-Native / Vue.js / HTML /
+CSS / Node.js / Express / Sequelize /
+PostgreSQL / MySQL / NGINX / CLI /
+Linux / Mongoose / Solidity /
+Web3 / HardHat / Ethereum / Polygon
 
 ## About Me
 
