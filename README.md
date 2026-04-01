@@ -1,23 +1,20 @@
-# Hi, I'm Martín – Software Developer 💻
+# Hi, I'm a Software Engineer 👨‍💻
 
-I'm passionate about programming and application development. 📲 For me, knowledge is the foundation of everything, and that's why I'm always eager to learn and grow!
+I build scalable products across backend, frontend, and blockchain systems.  
+Focused on clean architecture, performance, and real-world problem solving.
 
-## Technologies I Work With
-Javascript / Typescript / Python / Go / Golang/
-React / React-Native / Vue.js / HTML /
-CSS / Node.js / Express / Sequelize /
-PostgreSQL / MySQL / NGINX / CLI /
-Linux / Mongoose / Solidity /
-Web3 / HardHat / Ethereum / Polygon
+## Tech Stack
+
+TypeScript / JavaScript / Go / Python / Rust / React / Next.js / Vue.js / Node.js / FastAPI / PostgreSQL / MongoDB / Docker / AWS / Solidity / Web3
 
 ## About Me
 
-- Native Spanish speaker, fluent in English.
-- Driven by problem-solving and continuous improvement. I never settle until I find the right solution.
-- Besides coding, I’m an avid guitarist and a music enthusiast. 🎸
+- Software Engineer from Argentina 🇦🇷
+- Experience in Full-Stack, Backend, and Blockchain development
+- Strong interest in scalable systems, automation, and product building
+- Native Spanish speaker, fluent in English
 
-## Get In Touch
+## Contact
 
-- **LinkedIn**: [martin-llobell-devel0per](https://www.linkedin.com/in/martin-llobell-devel0per/) 📥
-- **Email**: martinllobell3.0@gmail.com 📧
-- **Phone**: +54 9 261 6714972 📞
+- LinkedIn:[https://www.linkedin.com/](https://www.linkedin.com/in/martin-llobell-devel0per)
+- Email: martinllobell3.0@gmail.com
