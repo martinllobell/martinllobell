@@ -10,4 +10,4 @@ Most recently I worked on an enterprise AI agent platform and its LLM gateway, w
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/martin-llobell-devel0per) · martinllobell3.0@gmail.com
+[Portfolio](https://martinllobell.github.io) · [LinkedIn](https://www.linkedin.com/in/martin-llobell-devel0per) · martinllobell3.0@gmail.com
